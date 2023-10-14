@@ -1,0 +1,8 @@
+Luni        Marti           Miercuri        Joi             Vineri
+Free        Ed.Antr.        Free            Free            Dirigentie
+Religie     Istorie         Info            Matematica      Sport
+Biologie    Muz/Desen       Info            Engleza         Biologie
+Matematica  Mateamtica      Info            Franceza        Info
+Franceza    Geografie       TIC             Matematica      Psihologie
+Sport       Romana          Romana          Chimie          Fizica
+Fizica      Chimie          Fizica          Romana          Engleza
